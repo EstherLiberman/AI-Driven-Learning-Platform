@@ -1,6 +1,3 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/EstherLiberman/AI.LearningPlatform-client.git
 [submodule "server"]
 	path = server
 	url = https://github.com/EstherLiberman/AI.LearningPlatform.git
