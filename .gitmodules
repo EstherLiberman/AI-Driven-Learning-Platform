@@ -4,3 +4,6 @@
 [submodule "ai-client"]
 	path = ai-client
 	url = https://github.com/EstherLiberman/ai_client.git
+[submodule "ai_client"]
+	path = ai_client
+	url = https://github.com/EstherLiberman/ai_client.git
